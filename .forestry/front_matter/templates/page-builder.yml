@@ -32,6 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _posts/some-post.md
+- _posts/2019-12-15-some-post.md
 - index.md
 - testing.md
